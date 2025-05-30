@@ -15,7 +15,7 @@ My name is Helder Silvério and I'm a technology enthusiast. I have 15 years con
 ### :hammer_and_wrench: Languages and Tools:
 <br>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -28,7 +28,7 @@ My name is Helder Silvério and I'm a technology enthusiast. I have 15 years con
 </div>
 
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heldersilverio&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
