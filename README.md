@@ -28,10 +28,12 @@ My name is Helder Silvério and I'm a technology enthusiast. I have 15 years con
 </div>
 
 
-<!-- ### :fire: My Stats : -->
+ ### :fire: My Stats : -
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heldersilverio&theme=dark&background=000000)](https://git.io/streak-stats) 
 <br>
+
+
 <img src="https://komarev.com/ghpvc/?username=heldersilverio&style=flat-square&color=blue" alt=""/>
 
 - 📫 How to reach me: 
